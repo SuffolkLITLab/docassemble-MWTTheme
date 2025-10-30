@@ -1,0 +1,8 @@
+.navbar.bg-dark {
+  background-color: var(--bs-primary) !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: var(--bs-nav-link-hover-color);
+}

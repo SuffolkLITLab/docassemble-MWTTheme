@@ -1,0 +1,8 @@
+---
+features:
+  bootstrap theme: bootstrap.css
+  css:
+    - custom.css
+---
+objects:
+  - al_logo: DAStaticFile.using(filename="Mashpee-Wampanoag-Tribe-logo.png")
