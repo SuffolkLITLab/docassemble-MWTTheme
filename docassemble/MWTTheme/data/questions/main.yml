@@ -1,6 +1,6 @@
 ---
 features:
-  bootstrap theme: bootstrap.css
+  bootstrap theme: bootstrap-theme.css
   css:
     - custom.css
 ---
